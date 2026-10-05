@@ -105,7 +105,7 @@ def main():
 
         documents = batch["document"].tolist()
 
-         # Generate Vector for this batch
+        # Generate Vector for this batch
 
         embeddings = encoder.encode(
             documents,
