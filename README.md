@@ -1,7 +1,7 @@
 # Movie-Recommender
- ## Movie recommender will recommend movie based on the user input it is using RAG Architecure.
- ## Movies are recommend from dataset which i took from movie lens.
- ## I have used Chroma Vector Database internally to store emnbeddings of movie data points.
+ ### Movie recommender will recommend movie based on the user input it is using RAG Architecure.
+ ### Movies are recommend from dataset which i took from movie lens.
+ ### I have used Chroma Vector Database internally to store emnbeddings of movie data points.
 
 
  Dataset Used : https://grouplens.org/datasets/movielens/ 
